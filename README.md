@@ -1,0 +1,6 @@
+Imagens do projeto. (Contém animações)
+![1](https://github.com/user-attachments/assets/b966c5e4-2509-49f2-a1b2-76a461217fb3)
+![2](https://github.com/user-attachments/assets/0921a45c-739f-4b57-9902-17f5e5125973)
+![3](https://github.com/user-attachments/assets/a03ab164-da66-4e55-932c-3c66b00cfc0b)
+![4](https://github.com/user-attachments/assets/0f1efdcc-0b61-42f9-be34-f1fdfc964ca3)
+![5](https://github.com/user-attachments/assets/cd46f509-7a92-4a39-ae91-d9f0f22f2e91)
